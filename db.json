@@ -1,17 +1,17 @@
 {
   "song": [
     {
-      "id": 1,
+      "tpm": "bfs",
       "title": "半壶纱",
       "artist": "刘柯矣"
     },
     {
-      "id": 2,
+      "tpm": "dm",
       "title": "大眠",
       "artist": "王心凌"
     },
     {
-      "id": 3,
+      "tpm": "tx",
       "title": "天下",
       "artist": "于冬然"
     }
