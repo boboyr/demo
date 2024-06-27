@@ -6,12 +6,14 @@
       "title": "quidem molestiae enim"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "userId": 1,
+      "id": 1,
+      "title": "quidem molestiae enim"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "userId": 1,
+      "id": 1,
+      "title": "quidem molestiae enim"
     }
   ],
   "comments": [
