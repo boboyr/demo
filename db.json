@@ -16,20 +16,21 @@
       "artist": "于冬然"
     }
   ],
-  "comments": [
+  "mus": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "tpm": "wbsndsdy",
+      "gq": "我不是你的宋冬野",
+      "gs": "林小宇"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "tpm": "banmabanma",
+      "gq": "斑马斑马",
+      "gs": "宋冬野"
     }
   ],
-  "profile": {
-    "name": "typicode"
+      "tpm": "pdrzldc",
+      "gq": "平淡日子里的刺",
+      "gs": "宋冬野"
   }
 }
   
